@@ -29,7 +29,7 @@ $ sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-se
 
 10.	Create the root folder and the source folderfor the catkin:
 $ mkdir -p ~/catkin_ws/src 
-$ cd ~/catkin_ws/
+$ cd ~/catkin_ws/ 
 
 11.	Configure the catkin workspace:
 $ catkin_make
