@@ -4,6 +4,7 @@ ROS Installation steps on jetson nano developer kit- Smart methods training":
 1.	Connect the jetson nano develop kit to the PC.
 2.	Open the terminal.
 3.	Let the jetson nano accepting the software: 
+
 $ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'   
 
 4.	Adding a new apt key:
